@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "commonips" {
   # example configuration here
 }

@@ -13,6 +13,14 @@ description: |-
 ## Example Usage
 
 ```terraform
+terraform {
+  required_providers {
+    commonips = {
+      source = "philnichol/commonips"
+    }
+  }
+}
+
 provider "commonips" {}
 ```
 

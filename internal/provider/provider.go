@@ -29,7 +29,6 @@ func New(version string) func() *schema.Provider {
 			DataSourcesMap: map[string]*schema.Resource{
 				"commonips_cloudflare": dataSourceCommonIPsCloudflare(),
 			},
-			ResourcesMap: map[string]*schema.Resource{},
 		}
 
 		p.ConfigureContextFunc = configure(version, p)

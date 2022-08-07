@@ -1,3 +1,1 @@
-provider "commonips" {
-  # example configuration here
-}
+provider "commonips" {}

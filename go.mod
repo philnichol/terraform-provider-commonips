@@ -7,7 +7,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.20.0
 )
 
-require github.com/cloudflare/cloudflare-go v0.51.0
+require github.com/cloudflare/cloudflare-go v0.52.0
 
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect

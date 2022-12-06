@@ -7,7 +7,7 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.20.0
 )
 
-require github.com/cloudflare/cloudflare-go v0.52.0
+require github.com/cloudflare/cloudflare-go v0.56.0
 
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
@@ -55,7 +55,6 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/oklog/run v1.0.0 // indirect
-	github.com/pkg/errors v0.9.1 // indirect
 	github.com/posener/complete v1.2.3 // indirect
 	github.com/russross/blackfriday v1.6.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
